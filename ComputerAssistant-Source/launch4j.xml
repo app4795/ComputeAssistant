@@ -1,0 +1,38 @@
+<launch4jConfig>
+  <dontWrapJar>true</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>Shimeji.jar</jar>
+  <outfile>C:\Users\Yuki\Documents\Eclipse Java Projects\Shimeji2\Shimeji.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Yuki\Documents\Visual Studio Projects\ShimejiExe\ShimejiExe\icon.ico</icon>
+  <singleInstance>
+    <mutexName>Shimeji</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0_0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.2.1.0</fileVersion>
+    <txtFileVersion>2.2.1.0</txtFileVersion>
+    <fileDescription>Shimeji Launcher</fileDescription>
+    <copyright>Copyright (C) Group-Finity. All rights reserved.</copyright>
+    <productVersion>2.2.1.0</productVersion>
+    <txtProductVersion>2.2.1.0</txtProductVersion>
+    <productName>Shimeji</productName>
+    <companyName>Group Finity</companyName>
+    <internalName>Shimeji</internalName>
+    <originalFilename>Shimeji.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
